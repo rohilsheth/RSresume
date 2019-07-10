@@ -1,12 +1,11 @@
 # Fdb version 3
-["biber main"] 1562739351 "main.bcf" "main.bbl" "main" 1562740211
-  "main.bcf" 1562740204 92092 070fe4d86d224cd6ab6d7f9ebe4a45a0 ""
+["biber main"] 1562740784 "main.bcf" "main.bbl" "main" 1562740789
+  "main.bcf" 1562740789 92092 070fe4d86d224cd6ab6d7f9ebe4a45a0 ""
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1562740203 "/Users/rohilsheth/Rohil Sheth Resume/main.tex" "/Users/rohilsheth/Rohil Sheth Resume/main.pdf" "main" 1562740211
-  "/Users/rohilsheth/Rohil Sheth Resume/main.aux" 1562740204 471 1f4941c2f980de28c17d9930816be3dd ""
-  "/Users/rohilsheth/Rohil Sheth Resume/main.tex" 1562739891 6593 b79cf12625fc94bebddcdc04c1f2728e ""
+["pdflatex"] 1562740787 "/Users/rohilsheth/Rohil Sheth Resume/main.tex" "/Users/rohilsheth/Rohil Sheth Resume/main.pdf" "main" 1562740789
+  "/Users/rohilsheth/Rohil Sheth Resume/main.aux" 1562740789 471 1f4941c2f980de28c17d9930816be3dd ""
+  "/Users/rohilsheth/Rohil Sheth Resume/main.tex" 1562740781 6593 b79cf12625fc94bebddcdc04c1f2728e ""
   "/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463430686 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1463430686 2437 443c81fb50993bacedc5f9a206c322b0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -185,17 +184,17 @@
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "altacv.cls" 1562740211 10992 3c5258d9f3bf9a5e3e0f06e08bad220e ""
-  "main.aux" 1562740204 471 1f4941c2f980de28c17d9930816be3dd ""
-  "main.bbl" 1562739353 466 fbca89dc3e3cb765908de4b0f2010489 "biber main"
-  "main.run.xml" 1562740204 2307 93b08ae0f445fd306394a180158b7abc ""
-  "main.tex" 1562739891 6593 b79cf12625fc94bebddcdc04c1f2728e ""
+  "main.aux" 1562740789 471 1f4941c2f980de28c17d9930816be3dd ""
+  "main.bbl" 1562740786 466 fbca89dc3e3cb765908de4b0f2010489 "biber main"
+  "main.run.xml" 1562740789 2307 93b08ae0f445fd306394a180158b7abc ""
+  "main.tex" 1562740781 6593 b79cf12625fc94bebddcdc04c1f2728e ""
   "page1sidebar.tex" 1562738638 1462 d1fa87a3be6bdb2b5bef7ef8150f0b76 ""
   "pic.jpg" 1562729194 297822 0d1c576c640bcb45f121002de327bc70 ""
   (generated)
-  "main.aux"
   "main.run.xml"
-  "/Users/rohilsheth/Rohil Sheth Resume/main.pdf"
+  "main.bcf"
   "main.log"
   "/Users/rohilsheth/Rohil Sheth Resume/main.log"
-  "main.bcf"
+  "main.aux"
   "main.pdf"
+  "/Users/rohilsheth/Rohil Sheth Resume/main.pdf"
