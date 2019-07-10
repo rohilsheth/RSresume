@@ -196,6 +196,19 @@
   \ifstrequal{#4}{}{}{{\small\makebox[0.5\linewidth][l]{\faMapMarker\hspace{0.5em}#4}}}\par
   \medskip\normalsize
 }
+\newcommand{\cveventspec}[5]{%
+  {\large\color{emphasis}#1\par}
+  \smallskip\normalsize
+  \ifstrequal{#2}{}{}{
+  \textbf{\color{accent}#2}\par
+  \smallskip}
+  \ifstrequal{#2}{}{}{
+  {\color{emphasis}#3}\par
+  \smallskip}
+  \ifstrequal{#4}{}{}{{\small\makebox[0.5\linewidth][l]{\faCalendar\hspace{0.5em}#4}}}%
+  \ifstrequal{#5}{}{}{{\small\makebox[0.5\linewidth][l]{\faMapMarker\hspace{0.5em}#5}}}\par
+  \medskip\normalsize
+}
 
 \newcommand{\cvachievement}[3]{%
   \begin{tabularx}{\linewidth}{@{}p{2em} @{\hspace{1ex}} >{\raggedright\arraybackslash}X@{}}
